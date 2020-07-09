@@ -1,0 +1,41 @@
+.site {
+  width: 100vw;
+  min-height: 100vh;
+  display: grid;
+  grid-template-areas:
+    'site-header site-header'
+    'site-nav    site-main  ';
+  /* grid-template-columns: 1fr 4fr; */
+}
+
+.site-header {
+  grid-area: site-header;
+}
+
+.site-nav {
+  grid-area: site-nav;
+}
+
+.site-main {
+  grid-area: site-main;
+}
+
+.mbup-view {
+  display: grid;
+  grid-template-areas:
+    'mbup-header mbup-header  '
+    'mbup-nav    mbup-messages';
+  /* grid-template-columns: 1fr 4fr; */
+}
+
+.mbup-header {
+  grid-area: mbup-header;
+}
+
+.mbup-nav {
+  grid-area: mbup-nav;
+}
+
+.mbup-messages {
+  grid-area: mbup-messages;
+}
