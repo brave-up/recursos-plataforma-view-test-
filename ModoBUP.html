@@ -28,7 +28,7 @@
         </header>
         <nav class='mbup-nav'>
           <section>
-            <h4>Casos Cerrados</h4>
+            <h4>Casos Archivados</h4>
             <ul>
               <li>Caso 1</li>
               <li>Caso 2</li>
@@ -43,22 +43,13 @@
               <li>Mensaje 3</li>
             </ul>
           </section>
-          <section>
-            <h4>Mensajes Pendientes</h4>
-            <ul>
-              <li>Mensaje 1</li>
-              <li>Mensaje 2</li>
-              <li>Mensaje 3</li>
-            </ul>
-          </section>
         </nav>
         <article class='mbup-messages'>
           <h3>Mensaje</h3>
           <p>User: Hola me gustaria que me ayudaran.....</p>
-          <textarea name="modo bup" rows="4" cols="80" placeholder='ECE: Hola, aqui estamos para ayudarte'></textarea>
+          <textarea name="modo bup" rows="4" cols="80" placeholder=''></textarea>
           <div>
             <button>Mandar Mensaje</button>
-            <button>Desactivar Mensaje</button>
             <button>Archivar Caso</button>
           </div>
         </article>
@@ -66,23 +57,15 @@
       <section>
         <section class='mbup-view'>
           <header class='mbup-header'>
-            <h2>User View (Profesores/Estudiantes/Apoderados)</h2>
+            <h2>User View (Profesores/Apoderados)</h2>
           </header>
           <nav class='mbup-nav'>
-            <section>
-              <h4>Casos Cerrados</h4>
-              <ul>
-                <li>Caso 1</li>
-                <li>Caso 2</li>
-                <li>Caso 3</li>
-              </ul>
-            </section>
             <section>
               <h4>Mensajes Abiertos</h4>
               <ul>
                 <li>Mensaje 1</li>
-                <li>Mensaje 2:desactivado</li>
-                <li>Mensaje 3:desactivado</li>
+                <li>Mensaje 2</li>
+                <li>Mensaje 3</li>
               </ul>
             </section>
           </nav>
@@ -93,6 +76,31 @@
             <textarea name="modo bup" rows="4" cols="80"></textarea>
             <div>
               <button>Mandar Mensaje</button>
+            </div>
+          </article>
+        </section>
+        <section class='mbup-view'>
+          <header class='mbup-header'>
+            <h2>User View (Estudiantes)</h2>
+          </header>
+          <nav class='mbup-nav'>
+            <section>
+              <h4>Mensajes Abiertos</h4>
+              <ul>
+                <li>Mensaje 1</li>
+                <li>Mensaje 2</li>
+                <li>Mensaje 3</li>
+              </ul>
+            </section>
+          </nav>
+          <article class='mbup-messages'>
+            <h3>Mensaje</h3>
+            <p>User: Hola me gustaria que me ayudaran....</p>
+            <p>ECE: Hola, aqui estamos para ayudarte</p>
+            <textarea name="modo bup" rows="4" cols="80"></textarea>
+            <div>
+              <button>Mandar Mensaje</button>
+              <button>Anonimo off</button>
             </div>
           </article>
         </section>
