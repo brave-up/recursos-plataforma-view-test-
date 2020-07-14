@@ -39,3 +39,13 @@
 .mbup-messages {
   grid-area: mbup-messages;
 }
+footer .container {
+  /*padding-top: 55px;*/
+  padding-bottom: 25px;
+  background: #17bebb
+}
+footer .style {
+  background-color: #17bebb;
+  color: #ffffff;
+  position: center;
+}
