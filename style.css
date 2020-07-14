@@ -1,6 +1,6 @@
 .site {
   width: 100vw;
-  
+
   display: grid;
   grid-template-areas:
     'site-header site-header'
