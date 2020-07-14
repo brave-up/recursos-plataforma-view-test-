@@ -1,6 +1,5 @@
 .site {
   width: 100vw;
-
   display: grid;
   grid-template-areas:
     'site-header site-header'
@@ -10,7 +9,7 @@
 
 .site-header {
   grid-area: site-header;
-  height: 100px;
+
 }
 
 .site-nav {
