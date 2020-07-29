@@ -1,0 +1,5 @@
+footer .row img{
+    min-width: 70px;
+    max-width: 15%;
+    height: auto;
+}
