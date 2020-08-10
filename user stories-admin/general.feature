@@ -23,3 +23,4 @@ Feature: Users can manage users
                 colegio
                 rol
                 curso
+
