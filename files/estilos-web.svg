@@ -17,24 +17,24 @@
         fill: #1aa6a3;
       }
 
-      .cls-5 {
-        fill: #ffe965;
-      }
-
-      .cls-17, .cls-6 {
+      .cls-17, .cls-5 {
         fill: #6441a5;
       }
 
-      .cls-7 {
+      .cls-6 {
         fill: #f5822a;
       }
 
-      .cls-18, .cls-51, .cls-52, .cls-54, .cls-8 {
+      .cls-18, .cls-47, .cls-48, .cls-50, .cls-7 {
         fill: #767676;
       }
 
-      .cls-55, .cls-9 {
+      .cls-51, .cls-8 {
         fill: #bebebe;
+      }
+
+      .cls-9 {
+        fill: #ebebeb;
       }
 
       .cls-10 {
@@ -45,11 +45,11 @@
         fill: rgba(153,153,153,0.2);
       }
 
-      .cls-12, .cls-13, .cls-14, .cls-17, .cls-24, .cls-26, .cls-31, .cls-36, .cls-39 {
+      .cls-12, .cls-13, .cls-14, .cls-17, .cls-24, .cls-26, .cls-32, .cls-37, .cls-40 {
         font-size: 14px;
       }
 
-      .cls-12, .cls-13, .cls-14, .cls-17, .cls-18, .cls-24, .cls-27, .cls-33, .cls-36, .cls-38, .cls-47, .cls-49, .cls-52, .cls-54, .cls-55 {
+      .cls-12, .cls-13, .cls-14, .cls-17, .cls-18, .cls-24, .cls-28, .cls-34, .cls-37, .cls-39, .cls-44, .cls-45, .cls-48, .cls-50, .cls-51 {
         font-family: Roboto-Medium, Roboto;
         font-weight: 500;
       }
@@ -62,7 +62,7 @@
         fill: #666;
       }
 
-      .cls-14, .cls-38, .cls-57 {
+      .cls-14, .cls-39, .cls-53 {
         fill: #fff;
       }
 
@@ -74,19 +74,23 @@
         stroke: #95989a;
       }
 
+      .cls-15, .cls-16 {
+        stroke-width: 2px;
+      }
+
       .cls-16 {
         stroke: #6441a5;
       }
 
-      .cls-18, .cls-22, .cls-27, .cls-32, .cls-47, .cls-49, .cls-50 {
+      .cls-18, .cls-22, .cls-28, .cls-33, .cls-44, .cls-45, .cls-46 {
         font-size: 16px;
       }
 
-      .cls-18, .cls-22, .cls-47, .cls-50, .cls-51, .cls-52, .cls-54, .cls-55 {
+      .cls-18, .cls-22, .cls-44, .cls-46, .cls-47, .cls-48, .cls-50, .cls-51 {
         letter-spacing: -0.028em;
       }
 
-      .cls-20, .cls-23, .cls-49, .cls-50 {
+      .cls-20, .cls-23, .cls-45, .cls-46 {
         fill: #707070;
       }
 
@@ -99,15 +103,15 @@
         stroke: #707070;
       }
 
-      .cls-22, .cls-47 {
+      .cls-22, .cls-44 {
         fill: #6f6f6f;
       }
 
-      .cls-22, .cls-25, .cls-26, .cls-30, .cls-31, .cls-32, .cls-34, .cls-40, .cls-42, .cls-50 {
+      .cls-22, .cls-25, .cls-26, .cls-27, .cls-31, .cls-32, .cls-33, .cls-35, .cls-41, .cls-43, .cls-46 {
         font-family: Roboto-Regular, Roboto;
       }
 
-      .cls-24, .cls-29, .cls-31, .cls-32, .cls-33, .cls-34, .cls-42 {
+      .cls-24, .cls-30, .cls-32, .cls-33, .cls-34, .cls-35, .cls-43 {
         fill: rgba(0,0,0,0.87);
       }
 
@@ -115,97 +119,81 @@
         fill: #161616;
       }
 
-      .cls-25, .cls-30, .cls-38, .cls-40, .cls-54, .cls-55 {
+      .cls-25, .cls-31, .cls-39, .cls-41, .cls-50, .cls-51 {
         font-size: 12px;
       }
 
-      .cls-28, .cls-33, .cls-52 {
+      .cls-27 {
+        font-size: 7px;
+      }
+
+      .cls-29, .cls-34, .cls-48 {
         font-size: 20px;
       }
 
-      .cls-28, .cls-35, .cls-51 {
+      .cls-29, .cls-36, .cls-47 {
         font-family: Roboto-Bold, Roboto;
         font-weight: 700;
       }
 
-      .cls-29, .cls-34, .cls-35 {
+      .cls-30, .cls-35, .cls-36 {
         font-size: 24px;
       }
 
-      .cls-29 {
+      .cls-30 {
         font-family: Roboto-Black, Roboto;
         font-weight: 800;
       }
 
-      .cls-30 {
+      .cls-31 {
         fill: #191919;
       }
 
-      .cls-37 {
+      .cls-38 {
         fill: #22c1be;
       }
 
-      .cls-39 {
+      .cls-40 {
         font-family: Roboto-Light, Roboto;
         font-weight: 300;
       }
 
-      .cls-41 {
+      .cls-42 {
         fill: #66e8f7;
       }
 
-      .cls-42 {
+      .cls-43 {
         font-size: 90px;
       }
 
-      .cls-43 {
-        fill: #ffef8b;
-      }
-
-      .cls-44 {
-        fill: #fff4b2;
-      }
-
-      .cls-45 {
-        fill: #45cbc9;
-      }
-
-      .cls-46 {
-        fill: #74d8d6;
-      }
-
-      .cls-48 {
-        fill: #ebebeb;
-      }
-
-      .cls-51 {
+      .cls-47 {
         font-size: 50px;
       }
 
-      .cls-53 {
-        fill: #a2e5e4;
+      .cls-49 {
+        fill: rgba(162,229,228,0.39);
       }
 
-      .cls-56 {
+      .cls-52 {
         stroke: none;
       }
 
-      .cls-58 {
+      .cls-54 {
         filter: url(#Rectangle_182);
       }
 
-      .cls-59 {
+      .cls-55 {
         filter: url(#Rectangle_179);
       }
     </style>
-    <filter id="Rectangle_179" x="763" y="266" width="118" height="60" filterUnits="userSpaceOnUse">
+    <filter id="Rectangle_179" x="795" y="259" width="118" height="60" filterUnits="userSpaceOnUse">
       <feOffset dy="8" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="4" result="blur"/>
       <feFlood flood-opacity="0.239"/>
       <feComposite operator="in" in2="blur"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Rectangle_182" x="774" y="157" width="96" height="42" filterUnits="userSpaceOnUse">
+    <filter id="Rectangle_182" x="806" y="150" width="96" height="42" filterUnits="userSpaceOnUse">
       <feOffset dy="2" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="1" result="blur-2"/>
       <feFlood flood-opacity="0.239"/>
@@ -217,29 +205,29 @@
     </clipPath>
   </defs>
   <g id="Estilos_Web" data-name="Estilos Web" class="cls-1">
-    <rect class="cls-57" width="1445" height="812"/>
-    <rect id="primary_" data-name="primary " class="cls-2" width="46.665" height="46.665" transform="translate(1065.614 224.36) rotate(90)"/>
-    <rect id="succcess" class="cls-3" width="46.665" height="46.665" transform="translate(1124.122 145.285) rotate(90)"/>
-    <rect id="succcess-2" data-name="succcess" class="cls-4" width="46.665" height="46.665" transform="translate(1065.272 145.285) rotate(90)"/>
-    <rect id="succcess-3" data-name="succcess" class="cls-5" width="46.665" height="46.665" transform="translate(1123.815 224.36) rotate(90)"/>
-    <rect id="danger" class="cls-6" width="46.665" height="46.665" transform="translate(1019.452 303.487)"/>
-    <rect id="warning" class="cls-7" width="46.665" height="46.665" transform="translate(1018.245 382.487)"/>
-    <rect id="warning-2" data-name="warning" class="cls-8" width="46.665" height="46.665" transform="translate(1018.245 461.487)"/>
-    <rect id="warning-3" data-name="warning" class="cls-9" width="46.665" height="46.665" transform="translate(1077.245 461.487)"/>
-    <rect id="warning-4" data-name="warning" class="cls-10" width="46.665" height="46.665" transform="translate(1018.245 563.487)"/>
-    <g id="Disabled_Raised_Light" data-name="Disabled Raised Light" transform="translate(508 -87)">
+    <rect class="cls-53" width="1445" height="812"/>
+    <rect id="primary_" data-name="primary " class="cls-2" width="46.665" height="46.665" transform="translate(1065.613 224.36) rotate(90)"/>
+    <rect id="succcess" class="cls-3" width="46.665" height="46.665" transform="translate(1124.123 132.285) rotate(90)"/>
+    <rect id="succcess-2" data-name="succcess" class="cls-4" width="46.665" height="46.665" transform="translate(1065.273 132.285) rotate(90)"/>
+    <rect id="danger" class="cls-5" width="46.665" height="46.665" transform="translate(1019.453 303.487)"/>
+    <rect id="warning" class="cls-6" width="46.665" height="46.665" transform="translate(1018.246 382.487)"/>
+    <rect id="warning-2" data-name="warning" class="cls-7" width="46.665" height="46.665" transform="translate(1018.246 461.487)"/>
+    <rect id="warning-3" data-name="warning" class="cls-8" width="46.665" height="46.665" transform="translate(1077.246 461.487)"/>
+    <rect id="warning-4" data-name="warning" class="cls-9" width="46.665" height="46.665" transform="translate(1138.246 461.487)"/>
+    <rect id="warning-5" data-name="warning" class="cls-10" width="46.665" height="46.665" transform="translate(1018.246 563.487)"/>
+    <g id="Disabled_Raised_Light" data-name="Disabled Raised Light" transform="translate(540 -94)">
       <rect id="Rectangle_183" data-name="Rectangle 183" class="cls-11" width="96" height="36" rx="18" transform="translate(266 461)"/>
       <text id="Disabled" class="cls-12" transform="translate(314 484)"><tspan x="-32.167" y="0">DISABLED</tspan></text>
     </g>
-    <g id="Pressed_Raised_Light" data-name="Pressed Raised Light" transform="translate(506 -87)">
-      <g class="cls-59" transform="matrix(1, 0, 0, 1, -506, 87)">
-        <rect id="Rectangle_179-2" data-name="Rectangle 179" class="cls-2" width="94" height="36" rx="18" transform="translate(775 270)"/>
+    <g id="Pressed_Raised_Light" data-name="Pressed Raised Light" transform="translate(538 -94)">
+      <g class="cls-55" transform="matrix(1, 0, 0, 1, -538, 94)">
+        <rect id="Rectangle_179-2" data-name="Rectangle 179" class="cls-2" width="94" height="36" rx="18" transform="translate(807 263)"/>
       </g>
       <text id="Pressed" class="cls-13" transform="translate(316 380)"><tspan x="-29.781" y="0">PRESSED</tspan></text>
     </g>
-    <g id="Normal_Raised_Light" data-name="Normal Raised Light" transform="translate(510 -92)">
-      <g class="cls-58" transform="matrix(1, 0, 0, 1, -510, 92)">
-        <rect id="Rectangle_182-2" data-name="Rectangle 182" class="cls-2" width="90" height="36" rx="18" transform="translate(777 158)"/>
+    <g id="Normal_Raised_Light" data-name="Normal Raised Light" transform="translate(542 -99)">
+      <g class="cls-54" transform="matrix(1, 0, 0, 1, -542, 99)">
+        <rect id="Rectangle_182-2" data-name="Rectangle 182" class="cls-2" width="90" height="36" rx="18" transform="translate(809 151)"/>
       </g>
       <text id="Normal" class="cls-13" transform="translate(283 273)"><tspan x="0" y="0">NORMAL</tspan></text>
     </g>
@@ -252,20 +240,20 @@
       <text id="Normal-3" data-name="Normal" class="cls-14" transform="translate(288 273)"><tspan x="0" y="0">SUCCESS</tspan></text>
     </g>
     <g id="Normal_Raised_Light-4" data-name="Normal Raised Light" transform="translate(325 138)">
-      <rect id="Rectangle_182-5" data-name="Rectangle 182" class="cls-7" width="102" height="36" rx="18" transform="translate(267 250)"/>
+      <rect id="Rectangle_182-5" data-name="Rectangle 182" class="cls-6" width="102" height="36" rx="18" transform="translate(267 250)"/>
       <text id="Normal-4" data-name="Normal" class="cls-14" transform="translate(288 273)"><tspan x="0" y="0">WARNING</tspan></text>
     </g>
     <g id="Normal_Raised_Light-5" data-name="Normal Raised Light" transform="translate(325 -39)">
       <g id="Rectangle_182-6" data-name="Rectangle 182" class="cls-15" transform="translate(267 250)">
-        <rect class="cls-56" width="109" height="36" rx="18"/>
-        <rect class="cls-19" x="0.5" y="0.5" width="108" height="35" rx="17.5"/>
+        <rect class="cls-52" width="109" height="36" rx="18"/>
+        <rect class="cls-19" x="1" y="1" width="107" height="34" rx="17"/>
       </g>
       <text id="Normal-5" data-name="Normal" class="cls-13" transform="translate(281 273)"><tspan x="0" y="0">SECONDARY</tspan></text>
     </g>
     <g id="Normal_Raised_Light-6" data-name="Normal Raised Light" transform="translate(325 79)">
       <g id="Rectangle_182-7" data-name="Rectangle 182" class="cls-16" transform="translate(267 250)">
-        <rect class="cls-56" width="109" height="36" rx="18"/>
-        <rect class="cls-19" x="0.5" y="0.5" width="108" height="35" rx="17.5"/>
+        <rect class="cls-52" width="109" height="36" rx="18"/>
+        <rect class="cls-19" x="1" y="1" width="107" height="34" rx="17"/>
       </g>
       <text id="Normal-6" data-name="Normal" class="cls-17" transform="translate(322 273)"><tspan x="-27.221" y="0">DANGER</tspan></text>
     </g>
@@ -283,54 +271,60 @@
     </g>
     <g id="descargar" transform="translate(-99 -80)">
       <g id="Rectangle_245" data-name="Rectangle 245" class="cls-21" transform="translate(868 731)">
-        <rect class="cls-56" width="145" height="34" rx="17"/>
+        <rect class="cls-52" width="145" height="34" rx="17"/>
         <rect class="cls-19" x="0.5" y="0.5" width="144" height="33" rx="16.5"/>
       </g>
       <text id="DESCARGAR-2" data-name="DESCARGAR" class="cls-22" transform="translate(956 754)"><tspan x="-43.707" y="0">DESCARGAR</tspan></text>
       <path id="file-download-solid" class="cls-23" d="M7.655,4.648V0H.82A.818.818,0,0,0,0,.82V16.677a.818.818,0,0,0,.82.82H12.3a.818.818,0,0,0,.82-.82V5.468H8.475A.823.823,0,0,1,7.655,4.648Zm2.613,7.223-3.3,3.27a.583.583,0,0,1-.822,0l-3.3-3.27a.547.547,0,0,1,.384-.935H5.468V8.2a.547.547,0,0,1,.547-.547H7.108a.547.547,0,0,1,.547.547v2.734H9.883a.547.547,0,0,1,.385.935Zm2.616-8.283L9.538.239A.82.82,0,0,0,8.957,0H8.749V4.374h4.374V4.166A.818.818,0,0,0,12.884,3.588Z" transform="translate(886.877 738.503)"/>
     </g>
-    <g id="typography_size" data-name="typography size" transform="translate(4 136)">
+    <g id="typography_size" data-name="typography size" transform="translate(4 138)">
       <text id="MEDIUM_14PT" data-name="MEDIUM 14PT" class="cls-24" transform="translate(215.257 401)"><tspan x="0" y="13">Medium 14pt</tspan></text>
       <text id="Regular_12pt" data-name="Regular 12pt" class="cls-25" transform="translate(215.157 380)"><tspan x="0" y="0">Medium 12pt</tspan></text>
-      <text id="Regular_14pt" data-name="Regular 14pt" class="cls-26" transform="translate(214.128 311)"><tspan x="0" y="0">Light 24pt</tspan></text>
+      <text id="Regular_14pt" data-name="Regular 14pt" class="cls-26" transform="translate(214.128 311)"><tspan x="0" y="0">Light 14pt / 18pt</tspan></text>
+      <text id="Regular_14pt-2" data-name="Regular 14pt" class="cls-27" transform="translate(291.128 296)"><tspan x="0" y="0">line spacing</tspan></text>
+      <text id="Regular_14pt-3" data-name="Regular 14pt" class="cls-27" transform="translate(291.128 330)"><tspan x="0" y="0">line spacing</tspan></text>
       <text id="Medium_14pt-2" data-name="Medium 14pt" class="cls-24" transform="translate(214.252 277)"><tspan x="0" y="0">MEDIUM 14 PT</tspan></text>
-      <text id="Regular_16pt" data-name="Regular 16pt" class="cls-27" transform="translate(214.252 241)"><tspan x="0" y="0">Medium 20pt</tspan></text>
-      <text id="Medium_20pt" data-name="Medium 20pt" class="cls-28" transform="translate(214.219 203)"><tspan x="0" y="0">Bold 30pt</tspan></text>
-      <text id="Regular_24pt" data-name="Regular 24pt" class="cls-29" transform="translate(214.381 160)"><tspan x="0" y="0">Black 50pt </tspan></text>
+      <text id="Regular_16pt" data-name="Regular 16pt" class="cls-28" transform="translate(214.252 241)"><tspan x="0" y="0">Medium 20pt</tspan></text>
+      <text id="Medium_20pt" data-name="Medium 20pt" class="cls-29" transform="translate(214.219 203)"><tspan x="0" y="0">Bold 30pt</tspan></text>
+      <text id="Regular_24pt" data-name="Regular 24pt" class="cls-30" transform="translate(214.381 160)"><tspan x="0" y="0">Black 50pt </tspan></text>
       <text id="BUTTON" class="cls-24" transform="translate(70 401)"><tspan x="0" y="13">Button</tspan></text>
-      <text id="Caption" class="cls-30" transform="translate(71 380)"><tspan x="0" y="0">Time</tspan></text>
-      <text id="Body_1" data-name="Body 1" class="cls-31" transform="translate(70 311)"><tspan x="0" y="0">Body 1</tspan></text>
+      <text id="Caption" class="cls-31" transform="translate(71 380)"><tspan x="0" y="0">Time</tspan></text>
+      <text id="Body_1" data-name="Body 1" class="cls-32" transform="translate(70 311)"><tspan x="0" y="0">Body 1</tspan></text>
       <text id="Body_2_Menu" data-name="Body 2 / Menu" class="cls-24" transform="translate(70 277)"><tspan x="0" y="0">MENU</tspan></text>
-      <text id="Subheader" class="cls-32" transform="translate(70 241)"><tspan x="0" y="0">Subheader</tspan></text>
-      <text id="Title" class="cls-33" transform="translate(70 203)"><tspan x="0" y="0">Title/Pop-up</tspan></text>
-      <text id="Headline" class="cls-34" transform="translate(70 160)"><tspan x="0" y="0">Headline</tspan></text>
-      <text id="_17bebb" data-name="#17bebb" class="cls-35" transform="translate(364 139)"><tspan x="0" y="23">#17bebb</tspan></text>
-      <text id="_767676" data-name="#767676" class="cls-27" transform="translate(364 226)"><tspan x="0" y="15">#767676</tspan></text>
-      <text id="_767676-2" data-name="#767676" class="cls-28" transform="translate(364 184)"><tspan x="0" y="19">#767676</tspan></text>
-      <text id="_17bebb-2" data-name="#17bebb" class="cls-36" transform="translate(364 262)"><tspan x="0" y="13">#17bebb</tspan></text>
-      <rect id="Rectangle_246" data-name="Rectangle 246" class="cls-37" width="57" height="12" transform="translate(428 264)"/>
-      <text id="_FFFFFF" data-name="#FFFFFF" class="cls-38" transform="translate(432.471 263)"><tspan x="0" y="11">#FFFFFF</tspan></text>
-      <text id="_767676-3" data-name="#767676" class="cls-39" transform="translate(364 298)"><tspan x="0" y="13">#767676</tspan></text>
-      <text id="_BEBEBE" data-name="#BEBEBE" class="cls-40" transform="translate(364 368)"><tspan x="0" y="11">#BEBEBE</tspan></text>
+      <text id="Subheader" class="cls-33" transform="translate(70 241)"><tspan x="0" y="0">Subheader</tspan></text>
+      <text id="Title" class="cls-34" transform="translate(70 203)"><tspan x="0" y="0">Title/Pop-up</tspan></text>
+      <text id="Headline" class="cls-35" transform="translate(70 160)"><tspan x="0" y="0">Headline</tspan></text>
+      <text id="_17bebb" data-name="#17bebb" class="cls-36" transform="translate(364 139)"><tspan x="0" y="23">#17bebb</tspan></text>
+      <text id="_767676" data-name="#767676" class="cls-28" transform="translate(364 226)"><tspan x="0" y="15">#767676</tspan></text>
+      <text id="_767676-2" data-name="#767676" class="cls-29" transform="translate(364 184)"><tspan x="0" y="19">#767676</tspan></text>
+      <text id="_17bebb-2" data-name="#17bebb" class="cls-37" transform="translate(364 262)"><tspan x="0" y="13">#17bebb</tspan></text>
+      <rect id="Rectangle_246" data-name="Rectangle 246" class="cls-38" width="57" height="12" transform="translate(428 264)"/>
+      <text id="_FFFFFF" data-name="#FFFFFF" class="cls-39" transform="translate(432.471 263)"><tspan x="0" y="11">#FFFFFF</tspan></text>
+      <text id="_767676-3" data-name="#767676" class="cls-40" transform="translate(364 298)"><tspan x="0" y="13">#767676</tspan></text>
+      <text id="_BEBEBE" data-name="#BEBEBE" class="cls-41" transform="translate(364 368)"><tspan x="0" y="11">#BEBEBE</tspan></text>
       <g id="Roboto" transform="translate(66 22)">
-        <path id="Roboto_Cyan" data-name="Roboto Cyan" class="cls-41" d="M30.894-25.884H15.864V0H7.383V-63.984H28.564q10.811,0,16.633,4.922t5.823,14.326a17.225,17.225,0,0,1-3.23,10.415A19.281,19.281,0,0,1,38.8-27.686L53.833-.527V0H44.78Zm-15.029-6.9H28.828q6.284,0,10-3.252a10.987,10.987,0,0,0,3.713-8.7q0-5.933-3.538-9.1T28.784-57.041H15.864Zm43.55,8.569a28.085,28.085,0,0,1,2.747-12.568A20.489,20.489,0,0,1,69.807-45.4a20.815,20.815,0,0,1,11.184-3.032q9.712,0,15.71,6.724t6,17.886v.571a28.329,28.329,0,0,1-2.659,12.458,20.188,20.188,0,0,1-7.6,8.591A21.054,21.054,0,0,1,81.079.879q-9.668,0-15.667-6.724t-6-17.8Zm8.174.967q0,7.91,3.669,12.7a11.743,11.743,0,0,0,9.822,4.79,11.673,11.673,0,0,0,9.844-4.856q3.647-4.856,3.647-13.6,0-7.822-3.713-12.678a11.805,11.805,0,0,0-9.866-4.856,11.674,11.674,0,0,0-9.712,4.79Q67.588-32.168,67.588-23.247Zm85.562,0q0,10.9-5.01,17.512A16.007,16.007,0,0,1,134.692.879q-9.009,0-13.931-6.372L120.366,0H112.9V-67.5h8.13v25.181q4.922-6.108,13.579-6.108a16.1,16.1,0,0,1,13.6,6.548q4.944,6.548,4.944,17.93Zm-8.13-.923q0-8.306-3.208-12.832a10.62,10.62,0,0,0-9.229-4.526q-8.042,0-11.558,7.471v20.566q3.735,7.471,11.646,7.471a10.561,10.561,0,0,0,9.1-4.526Q145.02-15.073,145.02-24.17Zm16.216-.044a28.085,28.085,0,0,1,2.747-12.568,20.489,20.489,0,0,1,7.646-8.613,20.815,20.815,0,0,1,11.184-3.032q9.712,0,15.71,6.724t6,17.886v.571a28.329,28.329,0,0,1-2.659,12.458,20.188,20.188,0,0,1-7.6,8.591A21.054,21.054,0,0,1,182.9.879q-9.668,0-15.667-6.724t-6-17.8Zm8.174.967q0,7.91,3.669,12.7a11.743,11.743,0,0,0,9.822,4.79,11.673,11.673,0,0,0,9.844-4.856q3.647-4.856,3.647-13.6,0-7.822-3.713-12.678a11.805,11.805,0,0,0-9.866-4.856,11.674,11.674,0,0,0-9.712,4.79Q169.409-32.168,169.409-23.247Zm56.338-35.815v11.514h8.877v6.284h-8.877v29.487a6.586,6.586,0,0,0,1.187,4.285q1.187,1.428,4.043,1.428a19.683,19.683,0,0,0,3.867-.527V0a23.569,23.569,0,0,1-6.24.879q-5.449,0-8.218-3.3t-2.769-9.36V-41.265H208.96v-6.284h8.657V-59.062Zm15.337,34.849a28.085,28.085,0,0,1,2.747-12.568,20.489,20.489,0,0,1,7.646-8.613,20.815,20.815,0,0,1,11.184-3.032q9.712,0,15.71,6.724t6,17.886v.571a28.329,28.329,0,0,1-2.659,12.458,20.188,20.188,0,0,1-7.6,8.591A21.054,21.054,0,0,1,262.749.879q-9.668,0-15.667-6.724t-6-17.8Zm8.174.967q0,7.91,3.669,12.7a11.743,11.743,0,0,0,9.822,4.79,11.673,11.673,0,0,0,9.844-4.856q3.647-4.856,3.647-13.6,0-7.822-3.713-12.678a11.805,11.805,0,0,0-9.866-4.856,11.674,11.674,0,0,0-9.712,4.79Q249.258-32.168,249.258-23.247Z" transform="translate(0 86)"/>
-        <text id="Roboto-2" data-name="Roboto" class="cls-42" transform="translate(0 86)"><tspan x="0" y="0">Roboto</tspan></text>
+        <path id="Roboto_Cyan" data-name="Roboto Cyan" class="cls-42" d="M30.894-25.884H15.864V0H7.383V-63.984H28.564q10.811,0,16.633,4.922t5.823,14.326a17.225,17.225,0,0,1-3.23,10.415A19.281,19.281,0,0,1,38.8-27.686L53.833-.527V0H44.78Zm-15.029-6.9H28.828q6.284,0,10-3.252a10.987,10.987,0,0,0,3.713-8.7q0-5.933-3.538-9.1T28.784-57.041H15.864Zm43.55,8.569a28.085,28.085,0,0,1,2.747-12.568A20.489,20.489,0,0,1,69.807-45.4a20.815,20.815,0,0,1,11.184-3.032q9.712,0,15.71,6.724t6,17.886v.571a28.329,28.329,0,0,1-2.659,12.458,20.188,20.188,0,0,1-7.6,8.591A21.054,21.054,0,0,1,81.079.879q-9.668,0-15.667-6.724t-6-17.8Zm8.174.967q0,7.91,3.669,12.7a11.743,11.743,0,0,0,9.822,4.79,11.673,11.673,0,0,0,9.844-4.856q3.647-4.856,3.647-13.6,0-7.822-3.713-12.678a11.805,11.805,0,0,0-9.866-4.856,11.674,11.674,0,0,0-9.712,4.79Q67.588-32.168,67.588-23.247Zm85.562,0q0,10.9-5.01,17.512A16.007,16.007,0,0,1,134.692.879q-9.009,0-13.931-6.372L120.366,0H112.9V-67.5h8.13v25.181q4.922-6.108,13.579-6.108a16.1,16.1,0,0,1,13.6,6.548q4.944,6.548,4.944,17.93Zm-8.13-.923q0-8.306-3.208-12.832a10.62,10.62,0,0,0-9.229-4.526q-8.042,0-11.558,7.471v20.566q3.735,7.471,11.646,7.471a10.561,10.561,0,0,0,9.1-4.526Q145.02-15.073,145.02-24.17Zm16.216-.044a28.085,28.085,0,0,1,2.747-12.568,20.489,20.489,0,0,1,7.646-8.613,20.815,20.815,0,0,1,11.184-3.032q9.712,0,15.71,6.724t6,17.886v.571a28.329,28.329,0,0,1-2.659,12.458,20.188,20.188,0,0,1-7.6,8.591A21.054,21.054,0,0,1,182.9.879q-9.668,0-15.667-6.724t-6-17.8Zm8.174.967q0,7.91,3.669,12.7a11.743,11.743,0,0,0,9.822,4.79,11.673,11.673,0,0,0,9.844-4.856q3.647-4.856,3.647-13.6,0-7.822-3.713-12.678a11.805,11.805,0,0,0-9.866-4.856,11.674,11.674,0,0,0-9.712,4.79Q169.409-32.168,169.409-23.247Zm56.338-35.815v11.514h8.877v6.284h-8.877v29.487a6.586,6.586,0,0,0,1.187,4.285q1.187,1.428,4.043,1.428a19.683,19.683,0,0,0,3.867-.527V0a23.569,23.569,0,0,1-6.24.879q-5.449,0-8.218-3.3t-2.769-9.36V-41.265H208.96v-6.284h8.657V-59.062Zm15.337,34.849a28.085,28.085,0,0,1,2.747-12.568,20.489,20.489,0,0,1,7.646-8.613,20.815,20.815,0,0,1,11.184-3.032q9.712,0,15.71,6.724t6,17.886v.571a28.329,28.329,0,0,1-2.659,12.458,20.188,20.188,0,0,1-7.6,8.591A21.054,21.054,0,0,1,262.749.879q-9.668,0-15.667-6.724t-6-17.8Zm8.174.967q0,7.91,3.669,12.7a11.743,11.743,0,0,0,9.822,4.79,11.673,11.673,0,0,0,9.844-4.856q3.647-4.856,3.647-13.6,0-7.822-3.713-12.678a11.805,11.805,0,0,0-9.866-4.856,11.674,11.674,0,0,0-9.712,4.79Q249.258-32.168,249.258-23.247Z" transform="translate(0 86)"/>
+        <text id="Roboto-2" data-name="Roboto" class="cls-43" transform="translate(0 86)"><tspan x="0" y="0">Roboto</tspan></text>
       </g>
-      <text id="Regular_14pt-2" data-name="Regular 14pt" class="cls-26" transform="translate(214.128 345)"><tspan x="0" y="0">Light 18pt</tspan></text>
-      <text id="Body_1-2" data-name="Body 1" class="cls-31" transform="translate(70 345)"><tspan x="0" y="0">Body 2</tspan></text>
-      <text id="_767676-4" data-name="#767676" class="cls-39" transform="translate(364 332)"><tspan x="0" y="13">#767676</tspan></text>
+      <text id="Regular_14pt-4" data-name="Regular 14pt" class="cls-26" transform="translate(214.128 345)"><tspan x="0" y="0">Light 12pt / 16pt</tspan></text>
+      <text id="Body_1-2" data-name="Body 1" class="cls-32" transform="translate(70 345)"><tspan x="0" y="0">Body 2</tspan></text>
+      <text id="_767676-4" data-name="#767676" class="cls-40" transform="translate(364 332)"><tspan x="0" y="13">#767676</tspan></text>
+      <text id="BUTTON-2" data-name="BUTTON" class="cls-24" transform="translate(10 400)"><tspan x="0" y="13">Button</tspan></text>
+      <text id="Caption-2" data-name="Caption" class="cls-31" transform="translate(11 379)"><tspan x="0" y="0">h4</tspan></text>
+      <text id="Body_1-3" data-name="Body 1" class="cls-32" transform="translate(10 310)"><tspan x="0" y="0">p</tspan></text>
+      <text id="Body_2_Menu-2" data-name="Body 2 / Menu" class="cls-24" transform="translate(9 277)"><tspan x="0" y="0">MENU</tspan></text>
+      <text id="Subheader-2" data-name="Subheader" class="cls-33" transform="translate(10 240)"><tspan x="0" y="0">h2</tspan></text>
+      <text id="Title-2" data-name="Title" class="cls-34" transform="translate(10 202)"><tspan x="0" y="0">h1</tspan></text>
+      <text id="Headline-2" data-name="Headline" class="cls-35" transform="translate(10 159)"><tspan x="0" y="0">Y</tspan></text>
+      <text id="Body_1-4" data-name="Body 1" class="cls-32" transform="translate(10 344)"><tspan x="0" y="0">h3</tspan></text>
     </g>
-    <rect id="succcess-4" data-name="succcess" class="cls-43" width="46.665" height="46.665" transform="translate(1183.665 224.36) rotate(90)"/>
-    <rect id="succcess-5" data-name="succcess" class="cls-44" width="46.665" height="46.665" transform="translate(1243.867 224.36) rotate(90)"/>
-    <rect id="succcess-6" data-name="succcess" class="cls-45" width="46.665" height="46.665" transform="translate(1183.324 145.285) rotate(90)"/>
-    <rect id="succcess-7" data-name="succcess" class="cls-46" width="46.665" height="46.665" transform="translate(1242.174 145.285) rotate(90)"/>
     <g id="Send" transform="translate(-268 -48)">
       <rect id="Rectangle_143" data-name="Rectangle 143" class="cls-2" width="120" height="34" rx="17" transform="translate(862 588)"/>
-      <text id="ENVIAR" class="cls-47" transform="translate(921.515 611)"><tspan x="-26.912" y="0">ENVIAR</tspan></text>
+      <text id="ENVIAR" class="cls-44" transform="translate(921.515 611)"><tspan x="-26.912" y="0">ENVIAR</tspan></text>
     </g>
     <g id="archivar_caso" data-name="archivar caso" transform="translate(-99 -91)">
       <g id="Rectangle_244" data-name="Rectangle 244" class="cls-21" transform="translate(868 687)">
-        <rect class="cls-56" width="145" height="34" rx="17"/>
+        <rect class="cls-52" width="145" height="34" rx="17"/>
         <rect class="cls-19" x="0.5" y="0.5" width="144" height="33" rx="16.5"/>
       </g>
       <text id="ARCHIVAR_" data-name="ARCHIVAR " class="cls-22" transform="translate(954.196 709.586)"><tspan x="-38.375" y="0">ARCHIVAR </tspan></text>
@@ -338,46 +332,43 @@
     </g>
     <g id="Group_74" data-name="Group 74" transform="translate(-178 108)">
       <g id="Group_73" data-name="Group 73" transform="translate(-297 -41)">
-        <rect id="Rectangle_248" data-name="Rectangle 248" class="cls-48" width="122" height="34" rx="17" transform="translate(1067 532)"/>
-        <text id="ENVIAR-2" data-name="ENVIAR" class="cls-49" transform="translate(1098 541)"><tspan x="2.477" y="15">ENVIAR</tspan></text>
+        <rect id="Rectangle_248" data-name="Rectangle 248" class="cls-9" width="122" height="34" rx="17" transform="translate(1067 532)"/>
+        <text id="ENVIAR-2" data-name="ENVIAR" class="cls-45" transform="translate(1098 541)"><tspan x="2.477" y="15">ENVIAR</tspan></text>
       </g>
     </g>
     <g id="Activar-caso" transform="translate(190 -101)">
       <g id="Rectangle_250" data-name="Rectangle 250" class="cls-21" transform="translate(579 642)">
-        <rect class="cls-56" width="100" height="34" rx="17"/>
+        <rect class="cls-52" width="100" height="34" rx="17"/>
         <rect class="cls-19" x="0.5" y="0.5" width="99" height="33" rx="16.5"/>
       </g>
-      <text id="ACTIVAR" class="cls-50" transform="translate(597 649)"><tspan x="0" y="15">ACTIVAR</tspan></text>
+      <text id="ACTIVAR" class="cls-46" transform="translate(597 649)"><tspan x="0" y="15">ACTIVAR</tspan></text>
     </g>
     <g id="Ver" transform="translate(18 119)">
       <rect id="Rectangle_249" data-name="Rectangle 249" class="cls-2" width="89" height="34" rx="17" transform="translate(576 594)"/>
-      <text id="VER-2" data-name="VER" class="cls-50" transform="translate(594 601)"><tspan x="0" y="15">VER</tspan></text>
+      <text id="VER-2" data-name="VER" class="cls-46" transform="translate(594 601)"><tspan x="0" y="15">VER</tspan></text>
       <g id="ic_arrow_forward-2" data-name="ic_arrow_forward" transform="translate(626 599)">
         <rect id="rectangle-2" data-name="rectangle" class="cls-19" width="24" height="24"/>
         <path id="path-2" data-name="path" class="cls-20" d="M10.465,4,9.334,5.131l4.526,4.526H4v1.616h9.859L9.334,15.8l1.131,1.131,6.465-6.465Z" transform="translate(1.535 1.535)"/>
       </g>
     </g>
-    <text id="Buttons" class="cls-51" transform="translate(592 25)"><tspan x="0" y="48">Buttons</tspan></text>
-    <text id="Headers_and_text" data-name="Headers and text" class="cls-51" transform="translate(70 25)"><tspan x="0" y="48">Headers and text</tspan></text>
-    <text id="Hues_and_colors" data-name="Hues and colors" class="cls-51" transform="translate(1001 25)"><tspan x="0" y="48">Hues and colors</tspan></text>
-    <text id="Especifics" class="cls-52" transform="translate(596 475)"><tspan x="0" y="19">Especifics</tspan></text>
-    <rect id="succcess-8" data-name="succcess" class="cls-53" width="46.665" height="46.665" transform="translate(1301.375 145.285) rotate(90)"/>
-    <text id="_17BEBB-3" data-name="#17BEBB" class="cls-54" transform="translate(1077 209)"><tspan x="0" y="0">#17BEBB</tspan></text>
-    <text id="_FFE965" data-name="#FFE965" class="cls-54" transform="translate(1077 288)"><tspan x="0" y="0">#FFE965</tspan></text>
-    <text id="_74D8D6" data-name="#74D8D6" class="cls-54" transform="translate(1197 209)"><tspan x="0" y="0">#74D8D6</tspan></text>
-    <text id="_FFF4B2" data-name="#FFF4B2" class="cls-54" transform="translate(1197 288)"><tspan x="0" y="0">#FFF4B2</tspan></text>
-    <text id="_A2E5E4" data-name="#A2E5E4" class="cls-54" transform="translate(1255 209)"><tspan x="0" y="0">#A2E5E4</tspan></text>
-    <text id="_1AA6A3" data-name="#1AA6A3" class="cls-54" transform="translate(1017 209)"><tspan x="0" y="0">#1AA6A3</tspan></text>
-    <text id="_FFE43C" data-name="#FFE43C" class="cls-54" transform="translate(1017 288)"><tspan x="0" y="0">#FFE43C</tspan></text>
-    <text id="_6441A5" data-name="#6441A5" class="cls-54" transform="translate(1019 367)"><tspan x="0" y="0">#6441A5</tspan></text>
-    <text id="_F5822A" data-name="#F5822A" class="cls-54" transform="translate(1019 446)"><tspan x="0" y="0">#F5822A</tspan></text>
-    <text id="_767676-5" data-name="#767676" class="cls-54" transform="translate(1019 525)"><tspan x="0" y="0">#767676</tspan></text>
-    <text id="_BEBEBE-2" data-name="#BEBEBE" class="cls-54" transform="translate(1078 525)"><tspan x="0" y="0">#BEBEBE</tspan></text>
+    <text id="Buttons" class="cls-47" transform="translate(592 25)"><tspan x="0" y="48">Buttons</tspan></text>
+    <text id="Headers_and_text" data-name="Headers and text" class="cls-47" transform="translate(70 25)"><tspan x="0" y="48">Headers and text</tspan></text>
+    <text id="Hues_and_colors" data-name="Hues and colors" class="cls-47" transform="translate(1001 25)"><tspan x="0" y="48">Hues and colors</tspan></text>
+    <text id="Especifics" class="cls-48" transform="translate(596 475)"><tspan x="0" y="19">Especifics</tspan></text>
+    <rect id="succcess-3" data-name="succcess" class="cls-49" width="46.665" height="46.665" transform="translate(1183.375 132.285) rotate(90)"/>
+    <text id="_17BEBB-3" data-name="#17BEBB" class="cls-50" transform="translate(1077 196)"><tspan x="0" y="0">#17BEBB</tspan></text>
+    <text id="_A2E5E4_39_opacity" data-name="#A2E5E4
+39% opacity" class="cls-50" transform="translate(1137 196)"><tspan x="0" y="0">#A2E5E4</tspan><tspan x="0" y="18">39% opacity</tspan></text>
+    <text id="_1AA6A3" data-name="#1AA6A3" class="cls-50" transform="translate(1017 196)"><tspan x="0" y="0">#1AA6A3</tspan></text>
+    <text id="_FFE43C" data-name="#FFE43C" class="cls-50" transform="translate(1017 288)"><tspan x="0" y="0">#FFE43C</tspan></text>
+    <text id="_6441A5" data-name="#6441A5" class="cls-50" transform="translate(1019 367)"><tspan x="0" y="0">#6441A5</tspan></text>
+    <text id="_F5822A" data-name="#F5822A" class="cls-50" transform="translate(1019 446)"><tspan x="0" y="0">#F5822A</tspan></text>
+    <text id="_767676-5" data-name="#767676" class="cls-50" transform="translate(1019 525)"><tspan x="0" y="0">#767676</tspan></text>
+    <text id="_BEBEBE-2" data-name="#BEBEBE" class="cls-50" transform="translate(1078 525)"><tspan x="0" y="0">#BEBEBE</tspan></text>
+    <text id="_EBEBEB" data-name="#EBEBEB" class="cls-50" transform="translate(1139 525)"><tspan x="0" y="0">#EBEBEB</tspan></text>
     <text id="_A59B60_5_Opacity_" data-name="#A59B60    
-5% Opacity  " class="cls-54" transform="translate(1019 627)"><tspan x="0" y="0" xml:space="preserve">#A59B60    </tspan><tspan x="0" y="18" xml:space="preserve">5% Opacity  </tspan></text>
-    <text id="Background" class="cls-55" transform="translate(1018 555)"><tspan x="0" y="0">Background</tspan></text>
-    <text id="_45CBC9" data-name="#45CBC9" class="cls-54" transform="translate(1137 209)"><tspan x="0" y="0">#45CBC9</tspan></text>
-    <text id="_FFEF8B" data-name="#FFEF8B" class="cls-54" transform="translate(1137 288)"><tspan x="0" y="0">#FFEF8B</tspan></text>
+5% Opacity  " class="cls-50" transform="translate(1019 627)"><tspan x="0" y="0" xml:space="preserve">#A59B60    </tspan><tspan x="0" y="18" xml:space="preserve">5% Opacity  </tspan></text>
+    <text id="Background" class="cls-51" transform="translate(1018 555)"><tspan x="0" y="0">Background</tspan></text>
     <line id="Line_54" data-name="Line 54" class="cls-21" y2="673" transform="translate(540.5 120.5)"/>
     <line id="Line_55" data-name="Line 55" class="cls-21" y2="673" transform="translate(960.5 120.5)"/>
   </g>
