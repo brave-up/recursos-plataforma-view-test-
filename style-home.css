@@ -17,13 +17,13 @@ h4 {
 
 }
 
-
-
+xs
 
 .information {
   display: flex;
   flex-direction: column;
   align-items: center;
+  flex-grow: 1;
 
 }
 
@@ -51,13 +51,13 @@ min-height: 100vh;
   grid-area: header;
   display: flex;
   align-items: center;
-  justify-content: center;
+  flex: 1;
 }
 
 
 .site-main {
   grid-area: main;
-  /* width: 100%; */
+  width: 100%;
   margin-top: 50px;
 
 }
@@ -65,6 +65,8 @@ min-height: 100vh;
 .site-header img {
   max-width: 60%;
   max-height: 60%;
+  display: flex;
+  flex:1;
 
 }
 
@@ -91,7 +93,9 @@ min-height: 100vh;
 
 }
 .site nav {
-  width: 50%;
+
   display: flex;
-  justify-content: center;
+  flex:1;
+
+
 }
