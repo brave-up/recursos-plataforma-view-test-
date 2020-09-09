@@ -30,72 +30,150 @@
       <section>
           <h3>Caracterizacion</h3>
           <p>¿Tu eres..?</p>
-          <ol>
-            <li>Hombre</li>
-            <li>Mujer</li>
-            <li>Otro</li>
-            <li>Ninguno</li>
-          </ol>
+            <input type="radio" name="" value="hombre"> <label for="hombre">Hombre</label> <br>
+            <input type="radio" name="" value="mujer"> <label for="mujer">Mujer</label> <br>
+            <input type="radio" name="" value="otro"> <label for="otro">Otro</label> <br>
+            <input type="radio" name="" value="ninguno"> <label for="ninguno">Ninguno</label> <br>
+
           <p>¿Cual es tu nacionalidad?</p>
-            <ol>
-              <li>Chile</li>
-              <li>España</li>
-              <li>Lista desplegable</li>
-            </ol>
+
+          <input type="radio" name="" value="chile"> <label for="chile">Chile</label> <br>
+          <input type="radio" name="" value="españa"> <label for="españa">España</label> <br> <br>
+
+          <select name="pais"
+          <option value="AF">Afganistán</option>
+          <option value="AL">Albania</option>
+          <option value="DE">Alemania</option>
+          <option value="AD">Andorra</option>
+          <option value="AO">Angola</option>
+          <option value="AI">Anguilla</option>
+          <option value="AQ">Antártida</option>
+          <option value="AG">Antigua y Barbuda</option>
+          <option value="AN">Antillas Holandesas</option>
+          <option value="SA">Arabia Saudí</option>
+          <option value="DZ">Argelia</option>
+          <option value="AR">Argentina</option>
+          <option value="AM">Armenia</option>
+          <option value="AW">Aruba</option>
+
+        </select> <br>
+
             <input type="submit" value="Mandar Respuestas">
         <hr>
         <h3>otra pagina</h3>
         <hr>
         <h3>Relaciones interpersonales</h3>
         <p> ¿Quienes son tus amigos(as)? Marca todos los que quieras</p>
-        <ol>
-          <li>Nadie</li>
-          <li>Listado con nombres del curso</li>
-        </ol>
-        <input type="submit" value="Mandar Respuestas">
+
+        <input name="question" type="radio" value="Nadie">
+        <label for="Nadie">Nadie</label> <br> <br>
+
+        <input list="ide">
+        <datalist id="ide">
+        <option value="Juan"/>
+        <option value="Pedro" />
+        <option value="Diego" />
+        </datalist> <br>
+
+    <input type="submit" value="Mandar Respuestas">
         <hr>
         <h3>otra pagina</h3>
         <hr>
         <p>¿Que tan cercanos son?</p>
-          <ol>
-            <li>Muy poco Cercanos(as)&#128077;</li>
-            <li>Mas o menos Cercanos(as)&#128077;&#128077;&#128077;</li>
-            <li>Muy Cercanos(as)&#128077;&#128077;&#128077;&#128077;&#128077;</li>
-          </ol>
+            <input name="question" type="radio" value="Muy poco Cercanos(as)">
+            <label for="Muy poco Cercanos(as)">Muy poco Cercanos(as)&#128077;</label> <br>
+            <input name="question" type="radio" value="Mas o menos Cercanos(as)">
+            <label for="Mas o menos Cercanos(as)">Mas o menos Cercanos(as)&#128077;&#128077;&#128077;</label> <br>
+            <input name="question" type="radio" value="Muy Cercanos(as)">
+            <label for="Muy Cercanos(as)">Muy Cercanos(as)&#128077;&#128077;&#128077;&#128077;&#128077;</label> <br>
           <input type="submit" value="Mandar Respuestas">
           <hr>
           <h3>otra pagina</h3>
           <hr>
         <p>Si tuvieras un problema, ¿A que compañeros(as) se lo contarias? Marca a todos(as) los(as) que quieras</p>
-          <ol>
-            <li>A ninguno(a) de mis compañeros(as)</li>
-            <li>Listado con nombres del curso</li>
-          </ol>
-          <input type="submit" value="Mandar Respuestas">
+
+              <input name="question" type="radio" value="A ninguno(a) de mis compañeros(as)">
+              <label for="A ninguno(a) de mis compañeros(as)">A ninguno(a) de mis compañeros(as)</label> <br> <br>
+
+            <input list="ide">
+            <datalist id="ide">
+            <option value="Juan"/>
+            <option value="Pedro" />
+            <option value="Diego" />
+            </datalist> <br>
           <hr>
           <h3>otra pagina</h3>
           <hr>
         <p>¿Con quienes no te gusta relacionarte?(Para jugar, Conversar, hacer trabajos, etc.) Marca todos los que quieras</p>
-          <ol>
-            <li>Me gusta relacionarme con todos(as)</li>
-            <li>Listado con nombres del curso</li>
-          </ol>
+
+              <input name="question" type="radio" value="Me gusta relacionarme con todos(as)">
+              <label for="Me gusta relacionarme con todos(as)">Me gusta relacionarme con todos(as)</label> <br> <br>
+
+              <input list="ide">
+              <datalist id="ide">
+              <option value="Juan"/>
+              <option value="Pedro" />
+              <option value="Diego" />
+              </datalist> <br>
+
+          <input type="submit" value="Mandar Respuestas">
+
+          <hr>
+          <h3>otra pagina</h3>
+          <hr>
+        <p>¿Como te llevas con esta persona?</p>
+            <input name="question" type="radio" value="muy mal">
+            <label for="muy mal">Muy mal &#128544;</label> <br>
+            <input name="question" type="radio" value="mal">
+            <label for="mal">Mal &#x1F615;</label> <br>
+            <input name="question" type="radio" value="mas o menos">
+            <label for="mas o menos">Mas o menos &#x1F610;</label> <br>
+            <input name="question" type="radio" value="bien">
+            <label for="bien">Bien &#x1F642;</label> <br>
+            <input name="question" type="radio" value="muy bien">
+            <label for="muy bien">Muy bien &#128516;</label> <br>
+
           <input type="submit" value="Mandar Respuestas">
           <hr>
           <h3>otra pagina</h3>
           <hr>
-        <p>¿como te llevas con esta persona?</p>
-          <ol>
-            <li>Muy mal &#128544;</li>
-            <li>Mal &#x1F615;</li>
-            <li>Mas o menos &#x1F610;</li>
-            <li>Bien &#x1F642;</li>
-            <li>Muy bien &#128516;</li>
-          </ol>
-          <input type="submit" value="Mandar Respuestas">
-          <hr>
-          <h3>otra pagina</h3>
-          <hr>
+          <h3>Relaciones Academicas</h3>
+            <p>¿Con qué compañeros(as) te gustaría hacer trabajos o tareas? (Sin importar si son amigos(as) o no) Marca a todos(as) los(as) que quieras</p>
+
+            <input name="question" type="radio" value="prefiero trabajar solo(a)">
+            <label for="prefiero trabajar solo(a)">Prefiero trabajar solo(a)</label> <br> <br>
+
+            <input list="ide">
+            <datalist id="ide">
+            <option value="Juan"/>
+            <option value="Pedro" />
+            <option value="Diego" />
+            </datalist> <br>
+
+        <input type="submit" value="Mandar Respuestas">
+        <hr>
+        <h3>otra pagina</h3>
+        <hr>
+        <p>¿Con qué compañeros(as) no te gustaría hacer un trabajo o tarea? Marca a todos(as) los(as) que quieras</p>
+
+          <input name="question" type="radio" value="podria trabajar con cualquier compañero(a)">
+          <label for="podria trabajar con cualquier compañero(a)">Podria trabajar con cualquier compañero(a)</label> <br> <br>
+
+
+          <input list="ide">
+          <datalist id="ide">
+          <option value="Juan"/>
+          <option value="Pedro" />
+          <option value="Diego" /> Lista de curso
+          </datalist> <br>
+
+      <input type="submit" value="Mandar Respuestas">
+      <hr>
+      <h3>otra pagina</h3>
+      <hr>
+
+
+
       </section>
       <footer>
 
